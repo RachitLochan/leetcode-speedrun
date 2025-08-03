@@ -1,3 +1,9 @@
+G(1-10)=GPT assitantce 
+||1 being text help(sytax mostly)|| 2 code help || 3 logic help || 4 is combination ||5 cobination of all || 6 tutorial ||7 only 1 q in 1 day ||8 partial understood ||9help||10cheat|| 
+
+L=logic help(notes or comuunity sols)
+
+T=sloved but bad time can optimize
 
 i started my leetcode speedrun in 1 of august and i have done a course on algorithms 
 and will finish up my data structurs course in C language in the coming week 
