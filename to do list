@@ -1,1 +1,20 @@
 1) learn if elaase and else if plz in details man
+2)/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
+    int left[numsSize];left[0]=1;
+    int right[numsSize];right[numsSize-1]=1;int j = numsSize-1;
+    int* answer =(int*) malloc(numsSize * sizeof(int));         //dono why beacuse they told to?
+    for(int i=1;i<numsSize;i++){
+        left[i]=left[i-1]*nums[i-1];
+        right[j-i]=right[j-i+1]*nums[j-i+1];
+    }
+    for(int i=0;i<numsSize;i++){
+        answer[i]=left[i]*right[i];
+        
+    }
+    *returnSize = numsSize; // i gess this is the only way to return an array?
+    return answer;
+}
+learn why this format and why malloced?
