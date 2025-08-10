@@ -18,3 +18,4 @@ int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
     return answer;
 }
 learn why this format and why malloced?
+3) understand break #34 leetcode
