@@ -19,3 +19,4 @@ int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
 }
 learn why this format and why malloced?
 3) understand break #34 leetcode
+4) plz do 125 again man you suck in aray get a new barin
