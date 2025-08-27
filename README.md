@@ -15,3 +15,4 @@ Every Problem is easy untill you try to do it yourself
 Every Problem is easy after you have tried and done it yourself 
 
 august goal is to do min 4 lc hard 30 easy and 17 medium lets see(just rough numbers)
+N = new algo
