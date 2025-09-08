@@ -15,4 +15,5 @@ Every Problem is easy after you have tried and done it yourself
 
 august goal is to do min 4 lc hard 30 easy and 17 medium lets see(just rough numbers)
 (18E 7M and 1H done in august)26/51 done goal
+
 its september goal is to do 100LC in total min with 4 hard min 30midium
