@@ -17,3 +17,8 @@ august goal is to do min 4 lc hard 30 easy and 17 medium lets see(just rough num
 (18E 7M and 1H done in august)26/51 done goal
 
 its september goal is to do 100LC in total min with 4 hard min 30midium
+CHALLANGE OVER !! but at waht cost 
+speed run is finally over i did 99q out of which 69E 28M and 2H 
+i did quite a few in the last last just to get the numbers up not givig them enough time so this yesr resolution is to do few but quality questions
+master neetcodeio alll q in depth in cpp and pyhton and a switch from c learn from start give each q enough time and fianlly get and feel ready
+dono if i will make a new reposotory leetcode and learn from my mistes or do in same lest see till then new year new me goodbye 
